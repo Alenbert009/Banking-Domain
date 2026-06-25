@@ -131,12 +131,6 @@ banking-dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-![Banking Dashboard Preview](screenshots/dashboard_preview.png)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements to the EDA notebook or dashboard.
